@@ -25,10 +25,10 @@ export default {
     success: '操作成功',
     failed: '操作失败',
     verify: '验证',
-    unauthorizedTips: '未经授权，请先进行验证。',
+    unauthorizedTips: 'NO authorisation。',
   },
   chat: {
-    newChatButton: '新建聊天',
+    newChatButton: 'Create NEW',
     placeholder: '来说点什么吧...（Shift + Enter = 换行，"/" 触发提示词）',
     placeholderMobile: '来说点什么...',
     copy: '复制',
@@ -74,7 +74,7 @@ export default {
     monthlyUsage: '本月使用量',
   },
   store: {
-    siderButton: '提示词商店',
+    siderButton: '常用词',
     local: '本地',
     online: '在线',
     title: '标题',
